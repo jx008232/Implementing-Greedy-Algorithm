@@ -1,3 +1,12 @@
+"""
+     0   NaN   NaN     8    19     8     8
+    14     0    11   NaN   NaN   NaN     1
+   NaN    11     0   NaN    14    26    39
+     8   NaN   NaN     0   NaN    24     2
+   NaN    10   NaN   NaN     0    40     8
+     8   NaN    26   NaN   NaN     0    18
+     8     1    39     2     8    18     0
+"""
 
 graph_d = {
     'A': [('D', 8), ('E', 19), ('F', 8), ('G', 8)],
